@@ -1,2 +1,0 @@
-eclipse.preferences.version=1
-org.jboss.ide.eclipse.as.core.singledeployable.deployableList=target/MyRESTExample.war\ntarget/MyRESTExample.war\ntarget/MyAppOnWildFly.war\ntarget/MyAppConstant.war\ntarget/MySpringData.war\ntarget/MyAppOnWildFly.war\ntarget/MySpringData.war\ntarget/MySpringData.war\ntarget/MyJasperExample.war\ntarget/MySpringEHCache.war\ntarget/MySpringData.war\ntarget/MySpringData.war\ntarget/MySpringData.war\ntarget/MySpringBatch.war\n
