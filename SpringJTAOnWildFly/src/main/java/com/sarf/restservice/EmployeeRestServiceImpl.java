@@ -1,8 +1,3 @@
-/*
- * Amadeus Confidential Information:
- * Unauthorized use and disclosure strictly forbidden.
- * @1998-2012 - Amadeus s.a.s - All Rights Reserved.
- */
 package com.sarf.restservice;
 
 import java.util.List;
@@ -14,10 +9,6 @@ import org.springframework.transaction.annotation.Transactional;
 import com.sarf.domain.Employee;
 import com.sarf.service.EmployeeService;
 
-/**
- * @author mokhan
- * 
- */
 @Service
 @Transactional
 public class EmployeeRestServiceImpl implements EmployeeRestService {

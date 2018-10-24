@@ -1,8 +1,3 @@
-/*
- * Amadeus Confidential Information:
- * Unauthorized use and disclosure strictly forbidden.
- * @1998-2012 - Amadeus s.a.s - All Rights Reserved.
- */
 package com.sarf.restservice;
 
 import java.util.List;
@@ -17,10 +12,6 @@ import javax.ws.rs.core.MediaType;
 
 import com.sarf.domain.Employee;
 
-/**
- * @author mokhan
- * 
- */
 @Path("/employee-service/")
 @Produces(MediaType.APPLICATION_JSON)
 public interface EmployeeRestService {

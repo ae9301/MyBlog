@@ -1,8 +1,3 @@
-/*
- * Amadeus Confidential Information:
- * Unauthorized use and disclosure strictly forbidden.
- * @1998-2012 - Amadeus s.a.s - All Rights Reserved.
- */
 package com.sarf.domain;
 
 import java.io.Serializable;
@@ -15,10 +10,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlRootElement;
 
-/**
- * @author mokhan
- * 
- */
 @Entity
 @Table(name = "employee")
 public class Employee implements Serializable {
