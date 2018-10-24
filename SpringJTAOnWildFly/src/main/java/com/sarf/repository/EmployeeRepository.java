@@ -1,8 +1,3 @@
-/*
- * Amadeus Confidential Information:
- * Unauthorized use and disclosure strictly forbidden.
- * @1998-2012 - Amadeus s.a.s - All Rights Reserved.
- */
 package com.sarf.repository;
 
 import org.springframework.data.domain.Page;
